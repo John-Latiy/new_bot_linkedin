@@ -2,4 +2,4 @@ Privacy Policy
 -------------------
 This application uses LinkedIn API only to publish posts on behalf of the authorized company page.
 We do not collect, store, or share any personal data.
-Contact: support@yourdomain.com
+Contact: aleksei.shafiev@igs-hk.com
